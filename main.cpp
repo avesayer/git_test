@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main () {
-	printf("Hello master\n");
-
+	printf("Hello 2021R4\n");
 	return 0;
 }
